@@ -5,7 +5,7 @@
 
 - 👀 I love **coding, gaming, and learning new things**
 
-- 👨‍💻 All of my projects are available at **[My Website](https://ayaant0.github.io) or [My GitHub](https://github.com/AyaanT0)**
+- 👨‍💻 All of my projects are available on **[My Website](https://ayaant0.github.io) or [My GitHub](https://github.com/AyaanT0)**
 
 - 🔭 I’m currently working on **my own Discord bot**
 
