@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayaant0&label=Profile%20views&color=0e75b6&style=flat" alt="ayaant0" /> </p>
 
-- 👀 I’m love **coding, gaming, and learning new things**
+- 👀 I love **coding, gaming, and learning new things**
 
 - 👨‍💻 All of my projects are available at **[My Website](https://ayaant0.github.io) or [My GitHub](https://github.com/AyaanT0)**
 
