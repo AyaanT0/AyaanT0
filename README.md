@@ -27,11 +27,13 @@
   
 <h3 align="left">My GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaant0&show_icons=true&theme=radical&locale=en" alt="ayaant0" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaant0&show_icons=true&locale=en&layout=compact" alt="ayaant0" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaant0&show_icons=true&theme=dark&locale=en&layout=compact" alt="ayaant0" /></p>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+Note: Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/AyaanT0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="165" alt="AyaanT0" /></a><a href="https://ko-fi.com/AyaanT0"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="35" width="165" alt="AyaanT0" /></a></p><br><br>
