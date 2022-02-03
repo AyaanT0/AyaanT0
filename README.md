@@ -31,7 +31,7 @@
 <h3 align="left">My GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaant0&show_icons=true&theme=radical&locale=en" alt="ayaant0" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaant0&show_icons=true&theme=radical&locale=en&layout=compact" alt="ayaant0" /></p>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 Note: Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br>
 <h3 align="left">Support:</h3>
