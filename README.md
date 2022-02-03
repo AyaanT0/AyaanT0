@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **[Instagram](https://www.instagram.com/ayaan._.t)**
 
-- 👉 Check Out **My [Resume](https://docs.google.com/document/d/1_Smu3IdqFkZNbS5XsihldOJeqayJCz-V/edit?usp=sharing&ouid=113100269551718581899&rtpof=true&sd=true)**
+- 👉 Check Out **[My Resume](https://docs.google.com/document/d/1_Smu3IdqFkZNbS5XsihldOJeqayJCz-V/edit?usp=sharing&ouid=113100269551718581899&rtpof=true&sd=true)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
