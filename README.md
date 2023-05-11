@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=600&color=327CF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayaan+Tunio;%F0%9F%92%BBCloud+Engineer%F0%9F%92%BB;%F0%9F%A4%B5Entrepreneur%F0%9F%A4%B5;%F0%9F%A4%96Experienced+Full-Stack+Developer%F0%9F%A4%96;%F0%9F%A7%A0Always+Learning+New+Things%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=3500&pause=600&color=14377A&background=4D2DFF13&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayaan+Tunio;%F0%9F%92%BBCloud+Engineer%F0%9F%92%BB;%F0%9F%A4%B5Entrepreneur%F0%9F%A4%B5;%F0%9F%A4%96Experienced+Full-Stack+Developer%F0%9F%A4%96;%F0%9F%A7%A0Always+Learning+New+Things%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayaant0&label=Profile%20views&color=0e75b6&style=flat" alt="ayaant0" /> </p>
 
