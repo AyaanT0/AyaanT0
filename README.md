@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=600&color=327CF7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayaan+Tunio;Cloud+Engineer;Entrepreneur;Experienced+Full-Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-[![](https://visitcount.itsvg.in/api?id=AyaanT0&icon=2&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaant0&label=Profile%20views&color=0e75b6&style=flat" alt="ayaant0" /> </p>
 
 - 👀 I love **developing projects, meeting new people, and learning new things**
 
