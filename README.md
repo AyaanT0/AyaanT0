@@ -1,14 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=3500&pause=600&color=14377A&background=4D2DFF13&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayaan+Tunio;%F0%9F%92%BBCloud+Engineer%F0%9F%92%BB;%F0%9F%A4%B5Entrepreneur%F0%9F%A4%B5;%F0%9F%A4%96Experienced+Full-Stack+Developer%F0%9F%A4%96;%F0%9F%A7%A0Always+Learning+New+Things%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=3500&pause=600&color=14377A&background=4D2DFF13&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayaan+Tunio;%F0%9F%91%8B%2CCEO+of+VoxiCloud%F0%9F%A4%B5;%F0%9F%A4%96Experienced+Full-Stack+Developer%F0%9F%A4%96;%F0%9F%92%BBCloud+Engineer%F0%9F%92%BB;%F0%9F%A4%B5Entrepreneur%F0%9F%A4%B5;%F0%9F%A7%A0Always+Learning+New+Things%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaant0&label=Profile%20views&color=0e75b6&style=flat" alt="ayaant0" /> </p>
 
-- 👀 I love **developing projects, meeting new people, and learning new things**
+- 👀 I love **developing new software, meeting new people, and learning new things**
 
-- 👨‍💻 All of my projects are available on **[My Website](https://ayaantunio.me) or [My GitHub](https://github.com/AyaanT0)**
+- 🤵 CEO of **[VoxiCloud Inc.](https://voxicloud.tech)**
+
+- 👨‍💻 All of my projects are available on **[My Personal Website](https://ayaantunio.me) or [My GitHub](https://github.com/AyaanT0)**
 
 - 🔭 I’m currently working on **my AZ-104 Certification**
 
-- 🌱 I’m currently learning **C++ and Vue.js**
+- 🌱 I’m currently learning **C++**
 
 - 🥅 Goals: **Contribute to more Open Source Projects**
 
