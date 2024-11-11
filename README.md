@@ -16,8 +16,6 @@
 
 - 📫 How to reach me: **[Instagram](https://www.instagram.com/ayaan._.t)**
 
-- 👉 Check Out **[My Resume](https://drive.google.com/file/d/1esQ0_y8ap4kwnXxdFGLBsZztY4afLlcb/view?usp=sharing)**
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayaan._.t) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayaantunio/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18051834) 
 
