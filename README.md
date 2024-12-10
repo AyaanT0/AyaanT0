@@ -8,11 +8,7 @@
 
 - 👨‍💻 All of my projects are available on **[My Personal Website](https://ayaantunio.me) or [My GitHub](https://github.com/AyaanT0)**
 
-- 🔭 I’m currently working on **my AZ-104 Certification**
-
 - 🌱 I’m currently learning **C++**
-
-- 🥅 Goals: **Contribute to more Open Source Projects**
 
 - 📫 How to reach me: **[Instagram](https://www.instagram.com/ayaan._.t)**
 <!-- - 👉 Check Out **[My Resume](put link here) -->
